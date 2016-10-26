@@ -1,0 +1,45 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\EntryPage.cs">
+    <Files>
+      <File FileName="Assets\EntryPage.cs" Line="1" Column="1" />
+      <File FileName="Assets\ToggleComponents.cs" Line="1" Column="1" />
+      <File FileName="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>img.name</Value>
+          <Value>imageToChangeTo</Value>
+          <Value>imageToChange</Value>
+          <Value>nextComponent.component.name</Value>
+          <Value>arrayOfOnlyChildComponents[n].component.transform.parent.name</Value>
+          <Value>arrayOfOnlyChildComponents[n].component.transform.name</Value>
+          <Value>orgComponent.component.transform.parent.name</Value>
+          <Value>orgComponent.component.name</Value>
+          <Value>Vector3.Distance(arrayOfOnlyChildComponents[n].component.transform.position, orgComponent.component.transform.position)</Value>
+          <Value>componentsData</Value>
+          <Value>componentsData[n].connected</Value>
+          <Value>componentsData[n].component.name</Value>
+          <Value>nextComponent.component.transform.parent</Value>
+          <Value>arrayOfOnlyChildComponents[n].component.transform.parent.name</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Samir Chaabi\Dropbox\IxD Project\Assets\EntryPage.cs" line="1182" />
+      <Breakpoint file="C:\Users\Samir Chaabi\Dropbox\IxD Project\Assets\EntryPage.cs" line="1004" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\EntryPage.cs" line="371" offsetX="1824" offsetY="5920" expression="nextComponent" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

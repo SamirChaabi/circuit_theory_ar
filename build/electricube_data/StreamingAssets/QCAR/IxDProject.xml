@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Cable1" size="297.000000 294.029999" />
+    <ImageTarget name="Battery" size="297.000000 294.029999" />
+    <ImageTarget name="OffSwitch" size="297.000000 294.029999" />
+    <ImageTarget name="Resistor" size="297.000000 294.029999" />
+    <ImageTarget name="OnSwitch" size="297.000000 294.029999" />
+    <ImageTarget name="Lamp" size="297.000000 294.029999" />
+    <ImageTarget name="Cable4" size="297.000000 294.029999" />
+    <ImageTarget name="Cable3" size="297.000000 294.029999" />
+    <ImageTarget name="Cable2" size="297.000000 294.029999" />
+  </Tracking>
+</QCARConfig>
